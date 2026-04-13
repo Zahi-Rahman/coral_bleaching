@@ -1,3 +1,7 @@
+## Advisory
+
+The original project was used on a private, Illinois Data Science Club (IDSC) GitHub repository that I am unable to make public. Instead, I am in the process of transferring over key files and data. The project was presented at the IDSC Data Dive of Fall 2025, and placed in the top 10.
+
 ## Project Overview
 
 This project analyzes coral reef data to better understand the patterns and drivers of coral bleaching. Coral reefs are critical ecosystems that support immense biodiversity, protect coastlines, and sustain global fisheries and tourism. However, rising ocean temperatures and other environmental stressors are causing widespread bleaching, threatening both natural ecosystems and human economies.
